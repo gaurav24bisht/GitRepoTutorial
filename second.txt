@@ -1,10 +1,2 @@
-this is my first vesrion of second file
-changes added
-new version added
-added
+this is my first vesrion of second file.
 
-e
-new line added
-gaurav
-dheeraj
-varun
